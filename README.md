@@ -8,9 +8,18 @@ I have built the architecture of a single-cycle RISC-V single core processer and
 
 ## Supported Instructions:
 
-0040006f
-3f500613
-00c2a023
-00128683
+Create a .txt file and place the ***hexadecimal*** code of your instructions simulated on ***Venus*** (RISC-V Simulator)\
+Each instruction's hexadecimal code must be on seperate line as following. This program consists of 9 instructions.
+```
+00500113
+00500193
+014000EF
+00120293
+00502023
+00002303
+00628663
+00310233
+00008067
+```
 
 ## ![alt text](https://github.com/SaadAliHafiz/Single-cycle-riscv-cpu/blob/main/instructionRV32I.png)
