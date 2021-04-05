@@ -8,7 +8,7 @@ I have built the architecture of a single-cycle RISC-V single core processer and
 
 ## Supported Instructions:
 
- This program consists of 9 supported instructions.
+ This program consists of 9 supported set of instructions.
 ```
 00500113
 00500193
