@@ -14,5 +14,5 @@ I have built the architecture of a single-cycle RISC-V single core processer and
 00c2a023
 00128683
 
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevopedia.org%2Frisc-v-instruction-sets&psig=AOvVaw2nQj491vNGhk60SknyG2r6&ust=1617695746850000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjMjbXQ5u8CFQAAAAAdAAAAABAD)
+![alt text](https://github.com/SaadAliHafiz/Single-cycle-riscv-cpu/blob/main/instructionRV32I.png)
 
