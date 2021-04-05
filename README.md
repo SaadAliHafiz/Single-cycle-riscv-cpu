@@ -7,7 +7,7 @@ I have built the architecture of a single-cycle RISC-V single core processer and
 //
 //
 ## Supported Instructions:
-
+...
 0040006f
 3f500613
 00c2a023
