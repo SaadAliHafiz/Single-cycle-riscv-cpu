@@ -13,4 +13,4 @@ I have built the architecture of a single-cycle RISC-V single core processer and
 00c2a023
 00128683
 
-##![alt text](https://github.com/SaadAliHafiz/Single-cycle-riscv-cpu/blob/main/instructionRV32I.png)
+## ![alt text](https://github.com/SaadAliHafiz/Single-cycle-riscv-cpu/blob/main/instructionRV32I.png)
